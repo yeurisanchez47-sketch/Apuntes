@@ -2,3 +2,6 @@ Capitulo 1: Introduccion a git
 Capitulo 2: Flujo de trabajo
 Capitulo 3: Repositorio remotos
 Capitulo 4: Fundamentos con python
+
+Yeuris ahora si
+Puyando es que de aprende 
